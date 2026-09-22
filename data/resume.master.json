@@ -1,0 +1,332 @@
+{
+  "meta": {
+    "schemaVersion": 1,
+    "lastImportedFrom": "Evren Keskin CV.pdf",
+    "sourceStatus": "authoritative-current-source",
+    "notes": [
+      "The user identified this PDF as the authoritative source for current career content."
+    ]
+  },
+  "basics": {
+    "name": "Evren Keskin",
+    "location": "Üsküdar, Istanbul",
+    "email": "evrenkeskin0998@gmail.com",
+    "phone": "+90 507 110 2287",
+    "headline": "Full-Stack Developer | Product Manager",
+    "portfolioUrl": "https://www.evrenkeskin.space",
+    "githubUrl": "https://github.com/keskinEvren",
+    "linkedinUrl": "https://linkedin.com/in/evrenkeskin0998"
+  },
+  "summaries": {
+    "master": "Computer Engineering graduate and Full-Stack Developer with a robust technical foundation in modern web architectures (Next.js 15, React 19, .NET, PostgreSQL) combined with comprehensive, hands-on experience in Product Ownership, Business Analysis, and E-commerce operations. Proven track record of bridging the gap between business strategy and technical execution by managing 4+ active digital products, translating complex stakeholder workflows into precise technical requirements, and leading cross-functional delivery with internal and external software teams. A product-minded engineer uniquely equipped to build high-performance applications while optimizing business prioritization, operational scalability, and marketplace growth.",
+    "software": "Computer Engineering graduate and Full-Stack Developer with experience across Next.js, React, TypeScript, .NET, REST APIs and PostgreSQL, combining hands-on implementation with product and business context.",
+    "product": "Product-minded Computer Engineering graduate with hands-on experience translating business needs into technical requirements, prioritizing product work, coordinating stakeholders and supporting cross-functional software delivery.",
+    "freelance": "Full-Stack Developer focused on web applications, integrations and practical end-to-end delivery using modern JavaScript/TypeScript technologies, .NET, REST APIs and PostgreSQL."
+  },
+  "skills": [
+    {
+      "id": "software-engineering",
+      "label": "Software Engineering",
+      "items": [
+        "React 19",
+        "Next.js 15",
+        "TypeScript",
+        ".NET (ASP.NET Core/Razor Pages)",
+        "Angular",
+        "React Native",
+        "REST APIs",
+        "RBAC architectures",
+        "PostgreSQL",
+        "Drizzle ORM",
+        "Tailwind CSS",
+        "Three.js"
+      ]
+    },
+    {
+      "id": "product",
+      "label": "Product Ownership & Business Analysis",
+      "items": [
+        "Product Requirements Documents (PRDs)",
+        "User Stories & Acceptance Criteria",
+        "Backlog Grooming",
+        "Feature Prioritization frameworks",
+        "Process Mapping",
+        "Workflow Optimization"
+      ]
+    },
+    {
+      "id": "delivery",
+      "label": "Delivery & Operations",
+      "items": [
+        "Cross-functional Team Collaboration",
+        "Agile/Scrum Methodologies",
+        "Vendor & Stakeholder Management",
+        "Release Planning & Rollout Coordination",
+        "Cross-device Testing & Issue Triage"
+      ]
+    },
+    {
+      "id": "ecommerce",
+      "label": "E-commerce & Digital Tools",
+      "items": [
+        "Multi-channel Marketplace Integration (Trendyol, Hepsiburada, N11)",
+        "WordPress/WooCommerce",
+        "Git/GitHub",
+        "Figma",
+        "Advanced Excel"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "id": "yetis-hizir-product-2025",
+      "company": "Yetiş+ Çarşı / Hızır Global A.Ş.",
+      "location": "Şişli, Istanbul",
+      "position": "Product Manager / Product Owner",
+      "startDate": "2025-08",
+      "endDate": null,
+      "current": true,
+      "visibility": "public",
+      "products": [
+        "yetişplusçarşı",
+        "yetişplusyemek",
+        "hızırkurye",
+        "Yetis E-Depo (in development)"
+      ],
+      "bullets": [
+        {
+          "id": "prioritization",
+          "text": "Own end-to-end prioritization and coordination of product requests across 4 distinct platforms, balancing business value, implementation cost, and delivery capacity."
+        },
+        {
+          "id": "requirements",
+          "text": "Translate complex business and field needs into technical requirements (PRDs, user stories) for 1 internal and 1 external software team, eliminating delivery ambiguity."
+        },
+        {
+          "id": "franchise",
+          "text": "Manage product execution and feature rollouts across a franchise ecosystem of 40-50 affiliates, aligning 10-20 high-touch stakeholders."
+        },
+        {
+          "id": "tradeoffs",
+          "text": "Shape solution direction by challenging low-value requests and proposing practical technical alternatives to guide leadership's trade-off decisions."
+        },
+        {
+          "id": "workflow",
+          "text": "Proactively identify recurring workflow gaps within courier and field operations, transforming user pain points into structured product improvements."
+        },
+        {
+          "id": "release",
+          "text": "Drive release readiness through disciplined issue triage, fintech integration syncs, and cross-functional technical enablement across delivery teams."
+        }
+      ]
+    },
+    {
+      "id": "tnc-it-intern-2025",
+      "company": "TNC Group",
+      "location": "Ataşehir, Istanbul (Remote)",
+      "position": "IT Specialist Intern",
+      "startDate": "2025-06",
+      "endDate": "2025-08",
+      "current": false,
+      "visibility": "public",
+      "bullets": [
+        {
+          "id": "python",
+          "text": "Completed a multi-disciplinary IT program, utilizing Python to write clean, modular code for programming automation and algorithmic workflows."
+        },
+        {
+          "id": "excel",
+          "text": "Engineered data-driven operational reports and streamlined analytical processes using advanced statistical functions and dynamic visualization in Excel."
+        },
+        {
+          "id": "cad",
+          "text": "Managed technical drafting and digital asset workflows by leveraging computer-aided design (CAD) frameworks and visual optimization in Photoshop."
+        }
+      ]
+    },
+    {
+      "id": "rosecasa-ecommerce-2024",
+      "company": "Rosecasa",
+      "location": "Üsküdar, Istanbul",
+      "position": "E-commerce & Web Content Assistant",
+      "startDate": "2024-10",
+      "endDate": "2025-04",
+      "current": false,
+      "visibility": "public",
+      "bullets": [
+        {
+          "id": "content",
+          "text": "Managed day-to-day content architecture and synchronization for WordPress websites, maintaining cross-channel catalog and pricing accuracy."
+        },
+        {
+          "id": "marketplaces",
+          "text": "Supported multi-channel marketplace operations (Trendyol, N11, Hepsiburada) through continuous listing quality checks and catalog maintenance."
+        },
+        {
+          "id": "campaigns",
+          "text": "Enhanced campaign execution efficiency by coordinating digital advertising operations and preparing marketing visual assets."
+        }
+      ]
+    },
+    {
+      "id": "rappider-frontend-intern-2023",
+      "company": "Rappider",
+      "location": "Levent, Istanbul",
+      "position": "Frontend Developer Intern (Angular)",
+      "startDate": "2023-06",
+      "endDate": "2023-09",
+      "current": false,
+      "visibility": "public",
+      "bullets": [
+        {
+          "id": "components",
+          "text": "Developed reusable, modular UI components in Angular within an agile product delivery environment, adhering to strict shared frontend standards."
+        },
+        {
+          "id": "consistency",
+          "text": "Contributed to consistent interface patterns across core product surfaces, optimizing codebase clean-up and reducing implementation debt."
+        }
+      ]
+    },
+    {
+      "id": "jotform-ui-intern-2021",
+      "company": "Jotform",
+      "location": "Beytepe, Ankara (Remote)",
+      "position": "UI Developer Intern (React Native)",
+      "startDate": "2021-06",
+      "endDate": "2021-09",
+      "current": false,
+      "visibility": "public",
+      "bullets": [
+        {
+          "id": "ui",
+          "text": "Built responsive mobile UI screens using React Native, applying UI/UX best practices to maximize mobile usability and cross-device consistency."
+        },
+        {
+          "id": "testing",
+          "text": "Tested, debugged, and optimized screen behavior across multiple testing environments, ensuring a polished end-user experience."
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "komsu-site",
+      "name": "komşu.site",
+      "subtitle": "Premium B2B SaaS Resident Portal",
+      "url": "https://www.komsu.site/",
+      "repositoryUrl": "https://github.com/keskinEvren/apartman-plus-resident-ops",
+      "repositoryVisibility": "public",
+      "visibility": "public",
+      "bullets": [
+        {
+          "id": "architecture",
+          "text": "Architectural design and full-stack development of a premium B2B SaaS platform optimizing residential and facility management workflows."
+        },
+        {
+          "id": "locking",
+          "text": "Implemented a secure multi-unit membership switcher utilizing context routing and engineered a conflict-free reservation system using PostgreSQL Row-Level locking."
+        }
+      ],
+      "technologies": [
+        "Next.js 15",
+        "React 19",
+        "TypeScript",
+        "tRPC v11",
+        "PostgreSQL",
+        "Drizzle ORM"
+      ]
+    },
+    {
+      "id": "hizir-corporate",
+      "name": "Hızır Global Corporate",
+      "subtitle": "Multilingual Business Showcase",
+      "url": "https://hizirglobal.com.tr/",
+      "repositoryUrl": null,
+      "repositoryVisibility": "none",
+      "visibility": "public",
+      "bullets": [
+        {
+          "id": "delivery",
+          "text": "Coordinated the cross-functional product layout, feature definition, and delivery of a multilingual (TR, EN, RU, AZ) corporate platform."
+        },
+        {
+          "id": "backoffice",
+          "text": "Led the functional rollout and requirement specification of a custom admin back-office to streamline affiliate showcases and global franchise applications."
+        }
+      ],
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "next-intl",
+        "Node.js"
+      ]
+    },
+    {
+      "id": "sherlith",
+      "name": "Sherlith",
+      "subtitle": "Headless E-Commerce Platform",
+      "url": "https://www.sherlith.com/",
+      "repositoryUrl": null,
+      "repositoryVisibility": "none",
+      "visibility": "public",
+      "bullets": [
+        {
+          "id": "architecture",
+          "text": "Collaborated on the technical architecture and delivery of a high-performance headless WooCommerce platform powered by modern API integrations."
+        },
+        {
+          "id": "ux",
+          "text": "Focused on maximizing conversion rate and user experience by implementing custom translation modules, Zustand-based global state management, and interactive 3D elements."
+        }
+      ],
+      "technologies": [
+        "Next.js",
+        "WPGraphQL",
+        "WordPress/WooCommerce",
+        "Zustand",
+        "Three.js"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "fsmvu-ceng-2025",
+      "institution": "Fatih Sultan Mehmet Vakıf University",
+      "location": "Istanbul, Türkiye",
+      "degree": "B.S. in Computer Engineering",
+      "graduationYear": "2025",
+      "visibility": "public"
+    }
+  ],
+  "certificates": [
+    {
+      "id": "fcc-js",
+      "name": "JavaScript Algorithms and Data Structures",
+      "visibility": "public"
+    },
+    {
+      "id": "fcc-front-end",
+      "name": "Front End Development Libraries",
+      "visibility": "public"
+    },
+    {
+      "id": "fcc-responsive",
+      "name": "Responsive Web Design",
+      "visibility": "public"
+    }
+  ],
+  "languages": [
+    {
+      "id": "tr",
+      "language": "Turkish",
+      "proficiency": "Native or Bilingual Proficiency"
+    },
+    {
+      "id": "en",
+      "language": "English",
+      "proficiency": "Professional Working Proficiency"
+    }
+  ]
+}

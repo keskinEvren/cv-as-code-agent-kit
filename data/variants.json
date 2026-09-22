@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "variants": [
+    {
+      "id": "software",
+      "label": "Software / Full-Stack",
+      "public": true,
+      "summaryKey": "software",
+      "sections": [
+        "skills",
+        "work",
+        "projects",
+        "education",
+        "languages"
+      ],
+      "skillGroupIds": [
+        "software-engineering",
+        "delivery"
+      ],
+      "work": [
+        {
+          "id": "yetis-hizir-product-2025",
+          "bulletIds": [
+            "requirements",
+            "tradeoffs",
+            "workflow",
+            "release"
+          ]
+        },
+        {
+          "id": "tnc-it-intern-2025",
+          "bulletIds": [
+            "python"
+          ]
+        },
+        {
+          "id": "rappider-frontend-intern-2023",
+          "bulletIds": [
+            "components",
+            "consistency"
+          ]
+        },
+        {
+          "id": "jotform-ui-intern-2021",
+          "bulletIds": [
+            "ui",
+            "testing"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "komsu-site",
+          "bulletIds": [
+            "architecture",
+            "locking"
+          ]
+        },
+        {
+          "id": "sherlith",
+          "bulletIds": [
+            "architecture",
+            "ux"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "label": "Product Manager / Product Owner",
+      "public": true,
+      "summaryKey": "product",
+      "sections": [
+        "skills",
+        "work",
+        "projects",
+        "education",
+        "languages"
+      ],
+      "skillGroupIds": [
+        "product",
+        "delivery"
+      ],
+      "work": [
+        {
+          "id": "yetis-hizir-product-2025",
+          "bulletIds": [
+            "prioritization",
+            "requirements",
+            "franchise",
+            "tradeoffs",
+            "workflow",
+            "release"
+          ]
+        },
+        {
+          "id": "rosecasa-ecommerce-2024",
+          "bulletIds": [
+            "content",
+            "marketplaces",
+            "campaigns"
+          ]
+        },
+        {
+          "id": "tnc-it-intern-2025",
+          "bulletIds": [
+            "python",
+            "excel"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hizir-corporate",
+          "bulletIds": [
+            "delivery",
+            "backoffice"
+          ]
+        },
+        {
+          "id": "komsu-site",
+          "bulletIds": [
+            "architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "freelance",
+      "label": "Freelance Full-Stack",
+      "public": true,
+      "summaryKey": "freelance",
+      "sections": [
+        "skills",
+        "projects",
+        "work",
+        "education",
+        "languages"
+      ],
+      "skillGroupIds": [
+        "software-engineering",
+        "ecommerce"
+      ],
+      "work": [
+        {
+          "id": "rappider-frontend-intern-2023",
+          "bulletIds": [
+            "components",
+            "consistency"
+          ]
+        },
+        {
+          "id": "jotform-ui-intern-2021",
+          "bulletIds": [
+            "ui",
+            "testing"
+          ]
+        },
+        {
+          "id": "yetis-hizir-product-2025",
+          "bulletIds": [
+            "requirements",
+            "workflow"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "komsu-site",
+          "bulletIds": [
+            "architecture",
+            "locking"
+          ]
+        },
+        {
+          "id": "sherlith",
+          "bulletIds": [
+            "architecture",
+            "ux"
+          ]
+        },
+        {
+          "id": "hizir-corporate",
+          "bulletIds": [
+            "delivery",
+            "backoffice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "master",
+      "label": "Master CV",
+      "public": false,
+      "noindex": true,
+      "summaryKey": "master",
+      "sections": [
+        "skills",
+        "work",
+        "projects",
+        "education",
+        "certificates",
+        "languages"
+      ],
+      "skillGroupIds": [
+        "software-engineering",
+        "product",
+        "delivery",
+        "ecommerce"
+      ],
+      "work": [
+        {
+          "id": "yetis-hizir-product-2025"
+        },
+        {
+          "id": "tnc-it-intern-2025"
+        },
+        {
+          "id": "rosecasa-ecommerce-2024"
+        },
+        {
+          "id": "rappider-frontend-intern-2023"
+        },
+        {
+          "id": "jotform-ui-intern-2021"
+        }
+      ],
+      "projects": [
+        {
+          "id": "komsu-site"
+        },
+        {
+          "id": "hizir-corporate"
+        },
+        {
+          "id": "sherlith"
+        }
+      ]
+    }
+  ]
+}
