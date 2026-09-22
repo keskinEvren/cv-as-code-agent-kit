@@ -1,0 +1,38 @@
+{
+  "name": "evren-keskin-cv-as-code",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint . --max-warnings=0",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "validate": "tsx scripts/validate-data.ts",
+    "pdf": "tsx scripts/export-pdf.ts",
+    "pdf:check": "tsx scripts/check-pdf.ts"
+  },
+  "dependencies": {
+    "next": "16.3.3",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "zod": "4.5.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/node": "26.4.0",
+    "@types/react": "19.2.18",
+    "@types/react-dom": "19.2.5",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.3.3",
+    "pdfjs-dist": "5.4.54",
+    "playwright": "1.62.1",
+    "tailwindcss": "4.3.3",
+    "tsx": "4.20.5",
+    "typescript": "6.0.3",
+    "vitest": "4.1.11"
+  }
+}
